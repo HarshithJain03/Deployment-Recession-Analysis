@@ -1,4 +1,4 @@
-# Recession Analysis and Prediction Project 
+# Recession Analysis and Prediction
 
 ![recession](https://c1.wallpaperflare.com/preview/634/496/50/refugees-economic-migrants-financial-equalization-help.jpg)
 
