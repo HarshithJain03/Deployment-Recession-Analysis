@@ -40,6 +40,10 @@ To get a glimpse of how the project works and its capabilities, check out our vi
 
 ![recession](https://github.com/neerajcodes888/Recession-Analysis-With-Prediction/assets/98253646/89ac1c3a-28a1-4b25-8fbc-48ff753ce0d0)
 
+
+
+
+
 ### Usability Terms 📊
 
 | Field              | Range                | Instructions               |
