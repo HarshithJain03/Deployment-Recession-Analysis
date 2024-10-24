@@ -41,6 +41,7 @@ To get a glimpse of how the project works and its capabilities, check out our vi
 ![recession](https://github.com/neerajcodes888/Recession-Analysis-With-Prediction/assets/98253646/89ac1c3a-28a1-4b25-8fbc-48ff753ce0d0)
 
 
+https://github.com/user-attachments/assets/ddd40161-9408-4a28-b28e-f73171433020
 
 
 
