@@ -36,8 +36,7 @@ This project aims to analyze historical economic data to predict recessions usin
 ## Video Demo ▶️
 To get a glimpse of how the project works and its capabilities, check out our video demo:
 
-https://github.com/user-attachments/assets/ddd40161-9408-4a28-b28e-f73171433020
-
+https://github.com/user-attachments/assets/3ac284d7-f5be-49c6-aa20-8b301f19a76f
 
 
 ### Usability Terms 📊
