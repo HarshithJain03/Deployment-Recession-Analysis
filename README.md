@@ -43,12 +43,12 @@ https://github.com/user-attachments/assets/3ac284d7-f5be-49c6-aa20-8b301f19a76f
 
 | Field              | Range                | Instructions               |
 |--------------------|----------------------|----------------------------|
-| Select year        | 1950 to 2050         | 📅 Input a year within the specified range (1950-2050).        |
-| Quarter            | First to Fourth Quarter | 🕒 Select a quarter from First to Fourth Quarter.            |
-| GDP Growth         | 0 to 10              | 💰 Input GDP growth rate within the range of 0 to 10.       |
-| Inflation Rate     | 0 to 20              | 💹 Input inflation rate within the range of 0 to 20.       |
-| Industrial Production | -5 to 5            | 🏭 Input industrial production within the range of -5 to 5.  |
-| Jobs in Market     | 10000 to 100000      | 👥 Input number of jobs within the range of 10000 to 100000. |
+| Select year        | 1950 to 2050         |  Input a year within the specified range (1950-2050).        |
+| Quarter            | First to Fourth Quarter |  Select a quarter from First to Fourth Quarter.            |
+| GDP Growth         | 0 to 10              |  Input GDP growth rate within the range of 0 to 10.       |
+| Inflation Rate     | 0 to 20              |  Input inflation rate within the range of 0 to 20.       |
+| Industrial Production | -5 to 5            |  Input industrial production within the range of -5 to 5.  |
+| Jobs in Market     | 10000 to 100000      |  Input number of jobs within the range of 10000 to 100000. |
 
 
 ## Model Accuracy
