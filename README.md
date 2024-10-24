@@ -1,6 +1,5 @@
 # Recession Analysis and Prediction
 
-https://github.com/user-attachments/assets/6a695f9a-9cce-40aa-a0af-d3ff5fbac2c3
 
 ## Introduction 
 This project aims to analyze historical economic data to predict recessions using machine learning techniques. By leveraging various algorithms and statistical methods, we've developed a model that can forecast economic downturns with reasonable accuracy. Additionally, we've deployed this model for easy access and visualization.
@@ -36,9 +35,6 @@ This project aims to analyze historical economic data to predict recessions usin
 
 ## Video Demo ▶️
 To get a glimpse of how the project works and its capabilities, check out our video demo:
-
-![recession](https://github.com/neerajcodes888/Recession-Analysis-With-Prediction/assets/98253646/89ac1c3a-28a1-4b25-8fbc-48ff753ce0d0)
-
 
 https://github.com/user-attachments/assets/ddd40161-9408-4a28-b28e-f73171433020
 
