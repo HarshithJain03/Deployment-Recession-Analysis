@@ -1,7 +1,6 @@
 # Recession Analysis and Prediction
 
-![recession](https://c1.wallpaperflare.com/preview/634/496/50/refugees-economic-migrants-financial-equalization-help.jpg)
-
+https://github.com/user-attachments/assets/6a695f9a-9cce-40aa-a0af-d3ff5fbac2c3
 
 ## Introduction 
 This project aims to analyze historical economic data to predict recessions using machine learning techniques. By leveraging various algorithms and statistical methods, we've developed a model that can forecast economic downturns with reasonable accuracy. Additionally, we've deployed this model for easy access and visualization.
